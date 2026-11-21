@@ -240,26 +240,20 @@ Through these projects, I gained practical experience in:
 
 ## 🚀 How to Explore the Projects
 
-**1. Clone this repository:**
 
-```bash
-git clone https://github.com/TechPankajsoni/POWER-BI-AND-KNIME-PROJECTS.git
-```
 
-**2. Open the downloaded project folder.**
-
-**3. Explore Power BI projects:**
+**1. Explore Power BI projects:**
 
 - Open `.pbix` files using Power BI Desktop.
 - Explore interactive dashboards, charts, and DAX calculations.
 
-**4. Explore KNIME projects:**
+**2. Explore KNIME projects:**
 
 - Open KNIME workflows using KNIME Analytics Platform.
 - Review data preprocessing, visualization, and machine learning nodes.
 - Explore the Decision Tree classification workflow.
 
-**5. Review project documentation:**
+**3. Review project documentation:**
 
 - Open the available PDF reports.
 - Explore datasets and project screenshots.
